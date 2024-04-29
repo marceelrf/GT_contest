@@ -1,0 +1,21 @@
+---
+title: "title"
+author: "Marcel Ferreira"
+format: html
+editor: visual
+server: shiny
+---
+
+## Motivation
+
+## About VCF format
+
+The Variant Call Format (VCF) is a standard file format used in genomics to store genetic variations. Think of it like a spreadsheet for genetic changes in DNA. Each row represents a specific variation, like a single-letter change in the DNA code or a deletion or insertion of genetic material. Columns contain information such as the chromosome where the variation occurs, its position, and what the change is. Scientists use VCF files to study how differences in DNA contribute to traits, diseases, and evolution. It's like a genetic roadmap for understanding the complexity of life.
+
+## Data used 
+
+## The table
+
+```{r}
+#| context: server
+```
